@@ -42,11 +42,11 @@ Manually analyzing the tone of lengthy financial reports is time-consuming and s
     * Follow the code steps to input a financial report PDF. The notebook will extract text, analyze sentiment, and provide a structured output of the tone analysis.
 
 ## Project Structure
-Financial-Report-Tone-Analyzer/  
-├── README.md  
-├── Capstone_Notebook.ipynb  
-└── data/  
-    └── sample_report.pdf  
+Financial-Report-Tone-Analyzer/
+├── README.md
+├── Capstone_Notebook.ipynb
+└── data/
+    └── sample_report.pdf
 
 ## Gen AI Evaluation
 
@@ -65,6 +65,12 @@ This notebook demonstrates the use of several Gen AI capabilities to analyze the
 * Develop more sophisticated methods for identifying nuanced language.
 * Visualize tone analysis results.
 * Refine tone evaluation prompts and criteria.
+
+## Demo & Blog
+
+* **Blog Post:** [Read on Medium]([Your_Medium_Blog_Link_Here](https://www.kaggle.com/code/izuardo/genai-submission))
+* **Video Demo:** [Watch on YouTube]([Your_YouTube_Demo_Link_Here](https://www.kaggle.com/code/izuardo/genai-submission))
+* **Kaggle Notebook:** [View on Kaggle]([Your_Kaggle_Notebook_Link_Here](https://www.kaggle.com/code/izuardo/genai-submission))
 
 ## Author
 
