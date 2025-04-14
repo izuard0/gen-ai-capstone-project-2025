@@ -42,11 +42,11 @@ Manually analyzing the tone of lengthy financial reports is time-consuming and s
     * Follow the code steps to input a financial report PDF. The notebook will extract text, analyze sentiment, and provide a structured output of the tone analysis.
 
 ## Project Structure
-Financial-Report-Tone-Analyzer/
-├── README.md
-├── Capstone_Notebook.ipynb
-└── data/
-    └── sample_report.pdf
+Financial-Report-Tone-Analyzer/  
+├── README.md  
+├── Capstone_Notebook.ipynb  
+└── data/  
+    └── sample_report.pdf  
 
 ## Gen AI Evaluation
 
