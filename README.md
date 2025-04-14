@@ -68,9 +68,9 @@ This notebook demonstrates the use of several Gen AI capabilities to analyze the
 
 ## Demo & Blog
 
-* **Blog Post:** [Read on Medium]([Your_Medium_Blog_Link_Here](https://www.kaggle.com/code/izuardo/genai-submission))
-* **Video Demo:** [Watch on YouTube]([Your_YouTube_Demo_Link_Here](https://www.kaggle.com/code/izuardo/genai-submission))
-* **Kaggle Notebook:** [View on Kaggle]([Your_Kaggle_Notebook_Link_Here](https://www.kaggle.com/code/izuardo/genai-submission))
+* **Blog Post:** [Read on Medium](https://www.kaggle.com/code/izuardo/genai-submission)
+* **Video Demo:** [Watch on YouTube](https://www.kaggle.com/code/izuardo/genai-submission)
+* **Kaggle Notebook:** [View on Kaggle](https://www.kaggle.com/code/izuardo/genai-submission)
 
 ## Author
 
