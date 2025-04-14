@@ -46,7 +46,7 @@ Financial-Report-Tone-Analyzer/
 ├── README.md
 ├── Capstone_Notebook.ipynb
 └── data/
-└── sample_report.pdf
+    └── sample_report.pdf
 
 ## Gen AI Evaluation
 
