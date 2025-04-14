@@ -1,6 +1,6 @@
 # Financial Report Disclosure Tone Analyzer
 
-This notebook analyzes the textual sections of a company's financial reports to determine the overall tone (positive, negative, neutral) using Generative AI capabilities.
+This notebook analyzes the textual sections of a company's financial reports to determine the overall tone (positive, negative, neutral) using Generative AI capabilities. As a deliverable for the Google Gen AI Intensive Capstone 2025, this project highlights the use of Google Gemini to automate the job application process.
 
 ## Overview
 
